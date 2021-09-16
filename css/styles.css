@@ -22,10 +22,6 @@
 .me {
     margin-left: 5rem ;
 }
-.jumbotext {
-    font-family: 'Permanent Marker', cursive;
-}
-
 /* If the screen size is 1201px wide or more, set the font-color to Black */
 @media screen and (min-width: 1201px) {
 .jumbotron {
