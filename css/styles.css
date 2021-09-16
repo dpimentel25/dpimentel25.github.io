@@ -1,0 +1,23 @@
+.navbar .nav-link{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Roboto Mono', monospace;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.jumbotron{
+    height:500px;
+    background-image: url("https://images.unsplash.com/photo-1541253768886-47a2cef5e09e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.aboutme {
+    font-family: 'Acme', sans-serif;
+}
+.rotate {
+    transform: rotate(-90deg);
+}
+.me {
+    margin-left: 5rem ;
+}
